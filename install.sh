@@ -8,4 +8,6 @@ sudo pip install twisted
 
 sudo pip install crypto
 
+pip install pycryptodome
+
 sudo apt-get update
